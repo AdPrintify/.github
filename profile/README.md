@@ -11,4 +11,4 @@
 At **AdPrintify**, we blend creativity with precision, ensuring that every project reflects the unique identity of your brand. We're passionate about helping businesses grow through effective and eye-catching marketing materials.
 
 ### Why We're Here:
-On GitHub, we collaborate on tech-based projects related to printing technologies, automation in advertising, and digital solutions to enhance traditional marketing methods. You'll find our repositories focused on tools, scripts, and innovations that support our mission to make printing and advertising more efficient, scalable, and accessible.
+On GitHub, we collaborate on [tech-based projects](https://medium.com/@AdPrintify) related to printing technologies, automation in advertising, and digital solutions to enhance traditional marketing methods. You'll find our repositories focused on tools, scripts, and innovations that support our mission to make printing and advertising more efficient, scalable, and accessible.
